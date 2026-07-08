@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'afd3e50b2e3bb0204772bf70f0c53f6c'
+api_key = 'PASTE_YOUR_API_KEY_HERE'
 
 location_input=input("Enter a location(city or pin code):")
 
